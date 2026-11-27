@@ -4,7 +4,8 @@ An interactive Power BI dashboard designed to analyse customer demographics, pur
 
 ## 📊 Dashboard Preview
 
-![Customer Segmentation Dashboard](assets/customer-segmentation-dashboard.png)
+<img width="1292" height="741" alt="Screenshot 2026-11-27 191118" src="https://github.com/user-attachments/assets/918df08c-29f6-4f71-9d6e-5dbdd919c8f0" />
+
 
 ## 🎯 Project Overview
 
